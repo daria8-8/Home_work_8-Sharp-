@@ -7,17 +7,17 @@ PrintArray(array);
 int[,,] GetArray(int m, int n, int p)
 {
    int[,,] result = new int[m, n, p];
-   int[] values = new int[90];
+   int[] array = new int[90];
     int num   = 10;
-    for (int i = 0; i < values.Length; i++)
-        values[i] = num++;
+    for (int i = 0; i < array.Length; i++)
+        array[i] = num++;
 
-    for (int i = 0; i < values.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        int randomInd = new Random().Next(10, 90);
-        int temp = values[i];
-        values[i] = values[randomInd];
-        values[randomInd] = temp;
+        int ranindex = new Random().Next(10, 90);
+        int x = array[i];
+        array[i] = array[ranindex];
+        array[ranindex] = x;
     }
 
     int index = 0;
@@ -28,7 +28,7 @@ int[,,] GetArray(int m, int n, int p)
         {
             for (int k = 0; k < p; k++) 
            {
-            result[i, j, k] = values[index++];
+            result[i, j, k] = array[index++];
            }
         }
     }
