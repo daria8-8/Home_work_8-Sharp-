@@ -1,0 +1,15 @@
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\bin\Debug\net6.0\Home_work.exe
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\bin\Debug\net6.0\Home_work.deps.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\bin\Debug\net6.0\Home_work.runtimeconfig.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\bin\Debug\net6.0\Home_work.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\bin\Debug\net6.0\Home_work.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.csproj.AssemblyReference.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.AssemblyInfoInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.AssemblyInfo.cs
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.csproj.CoreCompileInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\refint\Home_work.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\Home_work.genruntimeconfig.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_8(Sharp)\Home_work\obj\Debug\net6.0\ref\Home_work.dll
